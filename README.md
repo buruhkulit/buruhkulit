@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/buruhkulit/cimpli-wrt/tree/main/images/banner.png?sanitize=true"
+    <img src="https://github.com/buruhkulit/cimpli-wrt/images/banner.png?sanitize=true"
         height="100" width="100">
     
 <h1 align="center"><u>CIMPLI WRT</u></h1>
