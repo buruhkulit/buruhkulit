@@ -1,7 +1,3 @@
-### Hello, I am GoodBoy Owner MahaVPN  👋
-<br>
-<br>
-<br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="600">
